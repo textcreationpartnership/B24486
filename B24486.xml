@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble propositions of the agents for the Protestants in Ireland, residing at Oxford, presented to His Majesty the 18 of Aprill 1644 in pursuance of the petition of the Protestant subjects in Ireland, humbly craveing of His Majesty that for the satisfaction of iustice, and his owne honour, exemplary punishment may be inflicted upon the Irish rebells that have had a hand in shedding soe much innocent blood : and that His Majestie will not grant a pardon to those bloody rebells, for the murders and cruelties committed by them since the breakeing forth of this odious rebellion.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24486</idno><idno type="EEBO-CITATION">12016614</idno>
+  <idno type="VID">196712</idno>
+  <idno type="EEBO-PROQUEST">2240922975</idno>
+  
+            <idno type="STC">Wing H3601</idno>
+            <idno type="OCLC">12016614</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24486)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196712)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 237:E49, no 15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble propositions of the agents for the Protestants in Ireland, residing at Oxford, presented to His Majesty the 18 of Aprill 1644 in pursuance of the petition of the Protestant subjects in Ireland, humbly craveing of His Majesty that for the satisfaction of iustice, and his owne honour, exemplary punishment may be inflicted upon the Irish rebells that have had a hand in shedding soe much innocent blood : and that His Majestie will not grant a pardon to those bloody rebells, for the murders and cruelties committed by them since the breakeing forth of this odious rebellion.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I. N. for Henry Twyford ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Protestants --  Ireland.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196712:1"/>
+            <pb facs="tcp:196712:1"/>
+            <p>The humble PROPOSITIONS Of the <hi>Agents</hi> for the Protestants in <hi>Ire<g ref="char:EOLhyphen"/>land</hi> (residing at <hi>OXFORD,</hi>) presented to his Majesty the 18 of <hi>Aprill</hi> 1644.</p>
+            <p>In pursuance of the PETITION Of the Protestant Subjects in <hi>Ireland.</hi> Humbly Craveing of his Majesty that for the satisfaction of <hi>Iustice,</hi> and his <hi>Owne Honour,</hi> Exemplary punishment may be inflicted upon the <hi>Irish Rebells</hi> that have had a hand in shedding soe much Innocent blood. And that His MAJESTIE will not grant a pardon to those bloody <hi>Rebells,</hi> for the Murders and Cruelties committed by them since the breakeing forth of this odious REBELLION.</p>
+            <p>LONDON, Printed by <hi>I.N.</hi> for <hi>Henry Twyford</hi> at the three Daggers in Fleet-street, 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:196712:2"/>
+            <pb n="1" facs="tcp:196712:2"/>
+            <head>The humble Propositions of your Majesties present Agents in <hi>Ireland,</hi> in pursuance of the Humble Petition of your Majesties Protestant Subjects, aswell Commanders of Your Majesties Armie there, as o<g ref="char:EOLhyphen"/>thers, presented to Your Majestie the 18. day of <hi>Aprill</hi> 1644. and Answered by Your Majesty the 25. of the same.</head>
+            <p n="1">1. <seg rend="decorInit">W</seg>EE humbly desire the establishment of the true Protestant Religion in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> according to the Lawes and Statutes in the said Kingdome now in force.</p>
+            <p n="2">2. That the Popish titular Arch<g ref="char:EOLhyphen"/>bishops, Bishops, Jesuites, Fryers, and Priests and all others of the Roman Clergy bee banished out of <hi>Ireland,</hi> because they have ever been the stir<g ref="char:EOLhyphen"/>rers of all Rebellions, and while they continue there, there can be no hope of safety for your Majesties Protestant Subjects; And that all the Lawes and Statutes established in that Kingdome against Popery and popish Recusants may continue in force, and be put in due execution.</p>
+            <p n="3">
+               <pb n="2" facs="tcp:196712:3"/>3. That restitution may bee made of all our Churches and Church Rights and Revenues, and all our Churches and Chap<g ref="char:EOLhyphen"/>pels reedified, and put in as good estate as they were at the break<g ref="char:EOLhyphen"/>ing out of the Rebellion, and as they ought to be, at the charge of the confederate <hi>Roman</hi> Catholiques (as they call themselves) who have been the occasion of the destruction of the said Chur<g ref="char:EOLhyphen"/>ches, and possessed themselves of the Profits and Revenues thereof.</p>
+            <p n="4">4. That the Parliament now sitting in <hi>Ireland,</hi> may bee con<g ref="char:EOLhyphen"/>tinued there for the better settlement of the Kingdome, and that all persons duly indicted in the said Kingdome, of treason, felo<g ref="char:EOLhyphen"/>ny, or other heynous crimes, may be duly and legally proceeded against Outlawed, tryed and adjudged according to law, and that all persons lawfully convicted and attainted, or so to be con<g ref="char:EOLhyphen"/>victed or attainted for the same, may receive due punishment ac<g ref="char:EOLhyphen"/>cordingly.</p>
+            <p n="5">5. That no man may take upon him, or execute the office of Mayor or Magistrate in any Corporation, or the Office of a Sheriffe, or Justice of Peace, in any City or County in the said Kingdome, untill he hath first taken the Oathes of Supremacie and Allegiance.</p>
+            <p n="6">6. That all popish Lawyers who refuse to take the Oaths of Supremacie and Allegiance, may bee suppressed and restrained from practise in that Kingdome, he rather because the Lawyers in <hi>England</hi> doe not here practise untill they take the Oath of Su<g ref="char:EOLhyphen"/>premacie: And it hath been found by wofull experience, that the advise of the popish Lawyers to the people of <hi>Ireland</hi> hath been a great cause of their continued disobedience.</p>
+            <p n="7">7. That there may bee a present absolute suppression and dis<g ref="char:EOLhyphen"/>solution of all the assumed Arbitrary and tyrannicall power, which the said Confederates exercise over your Majesties Sub<g ref="char:EOLhyphen"/>jects, both in causes Ecclesiasticall and temporall.</p>
+            <p n="8">8. That all Armes and Ammunition of the said Confederates, be speedily brought into your Majesties Stoares.</p>
+            <p n="9">9. That your Majesties Protestant Subjects ruined and de<g ref="char:EOLhyphen"/>stroyed by the said Confederates, may be repayred for their great losses, out of the estates of the said Confederates, not formerly by
+<pb n="3" facs="tcp:196712:3"/> any Acts of this present Parliament in <hi>England</hi> otherwise dispo<g ref="char:EOLhyphen"/>sed of, whereby they may be the better enabled to reinhabite and defend the said Kingdome of <hi>Ireland.</hi>
+            </p>
+            <p n="10">10, That the Confederates may rebuild the severall Plantati<g ref="char:EOLhyphen"/>ons, Houses and Castles destroyed in <hi>Ireland,</hi> in as good estate as they were at the breaking out of this Rebellion, which your Ma<g ref="char:EOLhyphen"/>jesties Protestant Subjects have been bound by their severall Pa<g ref="char:EOLhyphen"/>tents to build and maintaine for your Majesties service.</p>
+            <p n="11">11. That the great Arreares of Rents due to your Majestie out of the estates of your Majesties Protestant Subjects, at and since Michaelmasse 1641. may bee payd unto your Majesty by such of the said Confederates, who have either received the said Rents to the uses of the said Confederates, or destroyed the same by disabling your Majesties Protestant Subjects to pay the same, and have also destroyed all, or the most part of all other rents and meanes of support belonging to Your said Protestant Subjects, may be discharged of all such Arreares of rents to your Majestie.</p>
+            <p n="12">12. That the said Confederates may give satisfaction to the Army for the great arrerages due unto them since the Rebellion, and that such Commanders as have raised forces at their owne charges, and layd forth great summes of ready money out of their owne purses, and engaged themselves for money and provi<g ref="char:EOLhyphen"/>sions, to keepe themselves, their houlds and souldiers under their command in the due and necessary defence of your Majesties Rights and Lawes may be in due sort satisfied to the encourage<g ref="char:EOLhyphen"/>ment of others in like times and cases which may happen.</p>
+            <p n="13">13. That touching such parts of the said Confederates estates as being forfeited for their Treasons, and come, or shall come in<g ref="char:EOLhyphen"/>to your Majesties hands and possession by that title Your Maje<g ref="char:EOLhyphen"/>stie after due satisfaction made to such as claime by former Acts of Parliament, would be pleased to take the same into your own hands and possession, and for the necessary increase of your Ma<g ref="char:EOLhyphen"/>jesties Revenue, and better security of your said Kingdome of <hi>Ireland</hi> and Protestant Subjects living under your gracious government there, to Plant the same with Brittish and Prote<g ref="char:EOLhyphen"/>stants
+<pb n="4" facs="tcp:196712:4"/> upon reasonoble and Honourable termes.</p>
+            <p n="14">14. That one good walled Towne may bee built and kept repayred in every County of the said Kingdome of <hi>Ireland,</hi> and endowed and furnished with necessary and sufficient meanes of Legall and just government and defence, for the better security of your Majesties Lawes and Rights, more especially the Prote<g ref="char:EOLhyphen"/>stant Religion, in times of danger; In any of which townes no Papist may be permitted to dwell or inhabit.</p>
+            <p n="15">
+               <note place="margin">☞</note>15. That for the better satisfaction of <hi>Justice,</hi> and your <hi>Ma<g ref="char:EOLhyphen"/>jesties Honour,</hi> and for the further security of the said Kingdome, and your Majesties Protestant subjects there, exemplary <hi>punish<g ref="char:EOLhyphen"/>ment</hi> according to Law, may be inflicted upon such as have there <hi>traiterously</hi> levied warre, and taken up Armes against your Ma<g ref="char:EOLhyphen"/>jesties Protestant Subjects and Lawes, and therein against your Majestie, and especially upon such as have had their hands in the shedding of innocent blood, or had to doe with the first Plot or Conspiracy, or since that time have done any notorious murther, or overt Acts of Treason.</p>
+            <p n="16">16. That all your Majesties Townes, Forts, and places of strength destroyed by the said Confederates since the said Rebel<g ref="char:EOLhyphen"/>lion, may be by them, and at their charges reedefied and delive<g ref="char:EOLhyphen"/>red up into your Majesties hands, to be duly put into the govern<g ref="char:EOLhyphen"/>ment (under your Majestie and your Lawes) of good Protestants, And that all Strengths and Fortifications made and set up by the said Confederates since the said Rebellion, may be sleighted and throwne downe, or else delivered up and disposed of for Prote<g ref="char:EOLhyphen"/>stant government, and security as aforesaid.</p>
+            <p n="17">17. That according to the Presidents of former times in cases of generall Rebellion in <hi>Ireland</hi> the Attainders which have been duly had by Outlawry for Treason done in this Rebellion, may be established and confirmed by Act of Parliament to be in due forme of Law transmitted and passed in <hi>Ireland;</hi> And that such Traytours as for want of Protestant and indifferent Jurors, to indict them in the proper Counties, are not yet indicted nor con<g ref="char:EOLhyphen"/>victed or attainted by Outlawry or otherwise, may upon due proofe of their offences, be by like Act of Parliament convicted and attainted, and all such Offendors to forfeit their estates as to
+<pb n="5" facs="tcp:196712:4"/> Law appertaineth; and your Majesty to be adiudged and put in possession without any Office or inquisition to be had.</p>
+            <p n="18">18 That your Majesties Protestant Subjects may be restored to the quick possession of all their Castles, Houses, Mannors, Lands, Tenements, Hereditaments and Leases, and to the quick possession of the Rents therof, as they had the same before and at the time of the breaking forth of this Rebellion, and from whence, without due processe and Judgement of Law, they have since then bin put out or kept out, and may be answered of and for all the meane profits of the same in the interim; and for all the time untill they shall be so restored.</p>
+            <p n="19">19 That your Majesties Protestant Subjects may also be re<g ref="char:EOLhyphen"/>stored to all their moneys, plate, Jewels, Household stuffe, goods, and Chattles whatsoever, which without due processe or Judge<g ref="char:EOLhyphen"/>ment in Law, have by the said Confederates bin taken or detay<g ref="char:EOLhyphen"/>ned from them since the contriving of the said Rebellion, which may be gayned in kinde or the full value thereof, if the same may not be had in kinde, the like restitution to be made for all such things which during the said time have beene delivered to any person or persons of the said Confederates in trust to be kept and preserved, but are by colour thereof still with holden.</p>
+            <p n="20">20 That the establishment &amp; maintenance of a competent Pro<g ref="char:EOLhyphen"/>testant Army, and sufficient Protestant souldiers &amp; forces for the time to come in <hi>Ireland,</hi> be speedily takē into your Majesties pru<g ref="char:EOLhyphen"/>dent, just and gracious consideration, and such course layd down and continued therin, according to the rules of good government: that your Majesties Rights and Laws, and the Protestant Reli<g ref="char:EOLhyphen"/>gion and Peace of that Kingdome be no more endangered by the like Rebellions in time to come.</p>
+            <p n="21">21 That whereas it appeareth in print that the said Confede<g ref="char:EOLhyphen"/>rats amongst other things aime at the repealing of <hi>Poynings</hi> Law, thereby to open an easy and ready way for the passing of Acts of Parliament in <hi>Ireland,</hi> without having them first well considered in <hi>England,</hi> which may produce many dangerous consequents both to that Kingdome, and to your Majesties o<g ref="char:EOLhyphen"/>ther Dominions; your Majesty would be pleased to resent and reiect all propositions tending to introduce so great a diminution
+<pb n="6" facs="tcp:196712:5"/> of your Royall and necessary power for the confirmation of your Royall estate and protection of your good Protestant Subjects both there and elsewhere.</p>
+            <p n="22">22 That your Majesty out of your grace and favour to your Protestant Subjects of <hi>Ireland,</hi> will be pleased to consider effectu<g ref="char:EOLhyphen"/>ally of assuring them,<note place="margin">☞</note> that you will <hi>not give</hi> order for, or allow of transmitting into <hi>Ireland</hi> any Act of <hi>generall oblivion,</hi> release or djscharge of Actions or suits whereby your Majesties said Protestant Subjects there may be barred or deprived of any of those legall remedies which by your Majesties Lawes and Statutes of that Kingdom, they may have against the said Confe<g ref="char:EOLhyphen"/>derates or any of them, or any of their party, for, or in respect of any wrongs done unto them, or any of their Ancestors or prede<g ref="char:EOLhyphen"/>cessors, in or concerning their Lives, Liberties, Persons, Goods, or Estates, since the contriving or breaking forth of the said Re<g ref="char:EOLhyphen"/>bellion.</p>
+            <p n="23">23 That some fit course may be considered of to prevent the filling or overlaying of the Commons House of Parliament in <hi>Ireland,</hi> with Popish Recusants being ill affected Members, and that Provision may be duly made that none shall Vote or sit therein, but such as shall first take the Oathes of Allegiance and Supremacy.</p>
+            <p n="24">24 That the prooffes and manifestations of the truth of the severall matters conteyned in the Petition of your Majesties Pro<g ref="char:EOLhyphen"/>testant Subjects of <hi>Ireland,</hi> lately presented to your Majesty, may be duly examined and discussed, and in that respect the fi<g ref="char:EOLhyphen"/>nall conclusion of things respited for a convenient time, their A<g ref="char:EOLhyphen"/>gents being ready to attend with their prooffes in that behalfe as your Majestie shall appoint.</p>
+            <p>
+               <hi>Published according to Order.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
